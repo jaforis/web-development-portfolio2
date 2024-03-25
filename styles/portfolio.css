@@ -36,3 +36,10 @@ nav a {
     font-weight: 700;
     padding: 15px 35px;
 }
+.header{
+    background-color: antiquewhite;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+}
